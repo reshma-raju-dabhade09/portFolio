@@ -208,6 +208,7 @@ a:hover {
 @media (max-width:952px) {
     .home-container {
         padding-left: 130px;
+        min-width: 800px;
     }
     nav ul li a {
         font-size: 14px;
@@ -937,6 +938,7 @@ footer {
 @media(max-width:952px) {
     .footer-container {
         /* height: 60%; */
+        min-width: 800px;
     }
     .logo2 img {
         width: 180px;
